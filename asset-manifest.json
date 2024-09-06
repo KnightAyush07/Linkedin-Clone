@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Linkedin-Clone/static/css/main.bc1dca3e.css",
-    "main.js": "/Linkedin-Clone/static/js/main.92208b7e.js",
+    "main.css": "/Linkedin-Clone/static/css/main.9c6b28c8.css",
+    "main.js": "/Linkedin-Clone/static/js/main.673c964d.js",
     "static/media/developer.png": "/Linkedin-Clone/static/media/developer.a15e578f5bb1e4d83698.png",
     "static/media/steve.jpg": "/Linkedin-Clone/static/media/steve.d841a83b2f6d46140556.jpg",
     "static/media/linkedin.png": "/Linkedin-Clone/static/media/linkedin.75fc39808d8bd5575b0e.png",
@@ -11,11 +11,11 @@
     "static/media/article.png": "/Linkedin-Clone/static/media/article.d719c8b0fcaa689e6288.png",
     "static/media/linked.png": "/Linkedin-Clone/static/media/linked.f249b38224ca41a0b909.png",
     "index.html": "/Linkedin-Clone/index.html",
-    "main.bc1dca3e.css.map": "/Linkedin-Clone/static/css/main.bc1dca3e.css.map",
-    "main.92208b7e.js.map": "/Linkedin-Clone/static/js/main.92208b7e.js.map"
+    "main.9c6b28c8.css.map": "/Linkedin-Clone/static/css/main.9c6b28c8.css.map",
+    "main.673c964d.js.map": "/Linkedin-Clone/static/js/main.673c964d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1dca3e.css",
-    "static/js/main.92208b7e.js"
+    "static/css/main.9c6b28c8.css",
+    "static/js/main.673c964d.js"
   ]
 }
